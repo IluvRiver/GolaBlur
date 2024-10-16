@@ -1,5 +1,6 @@
 # GolaBlur
 ![골라블러메인페이지](https://github.com/user-attachments/assets/21565fb9-eaa1-42ca-b27c-b5e69f71d277)
+
 [프로젝트 소개] 
 
 - 사용자가 이미지와 동영상을 다양한 모델을 사용하여 편집하고 꾸밀 수 있게 도와주는 웹 서비스
